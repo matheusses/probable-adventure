@@ -1,2 +1,2 @@
-# probable-adventure
+# Recipe API
 Recipe API project.
